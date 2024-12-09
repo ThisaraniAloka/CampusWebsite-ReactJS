@@ -51,7 +51,7 @@ const Contact = () => {
         Your input helps us improve and ensure the best experience for all students.
         </p>
         <ul>
-            <li><img src={mail_icon} alt="" />educity@gmail.com</li>
+            <li><img src={mail_icon} alt="" />eduverse@gmail.com</li>
             <li><img src={phone_icon} alt="" />+74-5113459</li>
             <li><img src={location_icon} alt="" />123 Maple Avenue, London, UK</li>
         </ul>
